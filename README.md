@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BishwasXD
-- 👀 I’m interested in rsa cryptography
-- 🌱 I’m currently learning django channels
+- 👀 I’m interested in learning as of now
+- 🌱 I’m currently learning django rest api
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
