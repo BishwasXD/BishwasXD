@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BishwasXD
 - 👀 I’m interested in learning as of now
-- 🌱 I’m currently learning django rest api
+- 🌱 I’m currently learning django rest framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
