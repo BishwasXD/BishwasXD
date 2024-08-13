@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working with Next.js and Django.<br>- 🌱 I’m currently learning Rust and data structures & algorithms (DSA).<br>- 👯 I’m looking to collaborate on Rust and Django projects.<br>- 📫 How to reach me: gautambishwas7@gmail.com<br>
+-  🔭 I’m currently working with Next.js and Django.<br>- 🌱 I’m currently learning Rust and data structures & algorithms (DSA).<br>- 👯 I’m looking to collaborate on Rust and Django projects.<br>- 📫 How to reach me: gautambishwas7@gmail.com<br>
 
 
 ## 🌐 Socials:
